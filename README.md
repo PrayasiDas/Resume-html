@@ -12,7 +12,7 @@ A basic personal resume web page built using HTML as part of my web development 
 - HTML
 
 ## Live Demo
-https://prayasidas.github.io/resume-html/
+https://prayasidas.github.io/Resume-html/
 
 ## Author
 Prayasi Das
